@@ -10,7 +10,7 @@ It is an interface developed in order to monitor sensors from an acquisition sys
 - User can add new modules (Raspberry PI is considered an module, and the user can insert multiple of them), structures configuration and determine which pins on Raspberry will have sensors attached
 - User can add a new analysis by selecting which module and structure configuration they want to use
 - User can start a new analysis and observe the graphs in real time
-- User can view the damage metrics simultaneously and move the bar up and down to adjust the threshold desired
+- User can view the damage metrics simultaneously and move the bar up and down to adjust the threshold to the value desired
 
 ## Author
 
